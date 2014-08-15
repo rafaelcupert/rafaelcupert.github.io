@@ -1,0 +1,26 @@
+p{
+	color: #FF0000;
+}
+p .one{
+	font: italic normal bold 20px 100% Georgia, serif;
+}
+p .two {
+	font: italic normal bold 20px 100% Arial;
+}
+header {
+	border-top: 1px solid #ccc;
+	border-left: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	padding: 2em;
+	margin-top: 5px;
+}
+
+footer{
+	padding: 10em;
+}
+
+h1 .titulo {
+	font: italic normal bold 10px 100% Georgia, serif 	;
+}
+
